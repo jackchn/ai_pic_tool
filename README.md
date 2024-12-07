@@ -17,3 +17,6 @@
 - 使用 FileReader API 处理文件上传
 - 使用 Canvas API 进行图片压缩
 - 采用 Flexbox 布局实现响应式设计 
+
+git config --global http.proxy http://127.0.0.1:10809
+git config --global https.proxy http://127.0.0.1:10809
